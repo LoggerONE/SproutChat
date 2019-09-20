@@ -1,0 +1,7 @@
+apps:
+  - script   : 'server.js'
+    name     : 'SproutChat'
+    exec_mode: 'cluster'
+    ignore_watch: ["public", ".git"]
+    instances: 3
+    watch  : true

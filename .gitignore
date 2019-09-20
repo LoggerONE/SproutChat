@@ -6,5 +6,6 @@ Homestead.yaml
 Homestead.json
 .env
 .env.save
+process.yml
 .ftp-simple.json
 setenv
